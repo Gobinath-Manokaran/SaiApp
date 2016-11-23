@@ -9,6 +9,24 @@
     "installed_plugins": {
         "cordova-plugin-console": {
             "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
+        },
+        "cordova-sqlite-ext": {
+            "PACKAGE_NAME": "com.nicholls.ionicelastichat"
         }
     },
     "dependent_plugins": {}
