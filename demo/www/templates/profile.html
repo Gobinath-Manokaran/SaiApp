@@ -1,0 +1,22 @@
+<ion-view view-title="Profile">
+    <ion-content ng-class="{expanded:$scope.isExpanded}">
+        <div class="hero slide-up" style="background-image: url('img/profile-bg.jpg');">
+            <div class="content">
+                <div class="avatar" style="background-image: url('img/daenerys.jpg');"></div>
+                <h3><a class="light">XXX</a></h3>
+                <h4>dragon_mommy</h4>
+            </div>
+        </div>
+        <div class="tabs tabs-dark tabs-icon-top static">
+            <a ui-sref="app.words" class="tab-item">
+                <i class="icon ion-arrow-graph-up-right"></i> God's Words
+            </a>
+            <a ui-sref="app.speak" class="tab-item">
+                <i class="icon ion-android-people"></i> Speak with sai
+            </a>
+            <a ui-sref="app.gallery" class="tab-item">
+                <i class="icon ion-images"></i> Photos
+            </a>
+        </div>        
+    </ion-content>
+</ion-view>
